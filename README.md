@@ -5,8 +5,8 @@ Liste des membres de ce groupe :
 •	Paul Denis      COQUILLON 	33466      git : Coquillon
 •	Jean Roodsen    CENAT		    33390      git : Cenat04
 •	Schneider B.M	  Maxena		  33818      git : TNarky
-•	Ada B.		      FRANCOIS		33888      git : TNarky
-•	Narky		        TURENNE		  33908      git : TNarky
+•	Ada B.		      FRANCOIS		33888      git : 
+•	Narky		        TURENNE		  33908      git : 
 
 Prof	 : Foko sindjoung miguel landry
 Date	 : 30 Décembre  2023
