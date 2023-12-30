@@ -1,5 +1,5 @@
 # Devoir_Android
-Devoir d'android Composé de 5 personnes dans le cadre du cours web mobile 4e année sc informatiques 
+Devoir d'android Composé de 5 personnes dans le cadre du cours web mobile 4e année sces informatiques 
 /============================================
 Liste des membres de ce groupe :
 •	Paul Denis      COQUILLON 	33466      git : Coquillon
