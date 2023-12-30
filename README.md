@@ -3,7 +3,7 @@ Devoir d'android Composé de 5 personnes dans le cadre du cours web mobile 4e an
 /============================================
 Liste des membres de ce groupe :
 •	Paul Denis      COQUILLON 	33466      git : Coquillon
-•	Jean Roodsen    CENAT		    33390      git : TNarky
+•	Jean Roodsen    CENAT		    33390      git : Cenat04
 •	Schneider B.M	  Maxena		  33818      git : TNarky
 •	Ada B.		      FRANCOIS		33888      git : TNarky
 •	Narky		        TURENNE		  33888      git : TNarky
