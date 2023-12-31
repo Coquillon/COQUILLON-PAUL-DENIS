@@ -402,6 +402,7 @@ public class MainActivity extends AppCompatActivity {
         }.parse();
     }
 //============================================
+
     public String onButtonClick(View view) {
         Button button = (Button) view;
         String currentText = ecran_main.getText().toString();
